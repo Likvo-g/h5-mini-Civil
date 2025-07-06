@@ -91,6 +91,7 @@ canvas.addEventListener('click', (event) => {
 function startGame() {
     initMap();
     renderMap();
+    renderMap();
 }
 
 function pauseGame() {
